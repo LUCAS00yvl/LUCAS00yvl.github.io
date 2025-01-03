@@ -1,0 +1,112 @@
+.principal1 {
+ 
+ text-align: center;
+ font-size: 30px;
+ color: white;
+ padding: 50px 0 10px 0;
+ font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+
+ }
+
+ .principal2 {
+ 
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  padding: 0 0 10px 0;
+  font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+
+.principal3 {
+ 
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding: 0 0 20px 0;
+    font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+ }
+   
+.jogo1 {
+  font-size: 30px;
+  padding: 40px 0 20px 200px;
+  font-family: "Roboto", serif;
+  font-weight: bold;
+  font-style: normal;
+  color: white;
+
+}
+
+.fotojogo1  {
+  padding: 0 0 0 200px;
+  width: 20%;
+  height: auto;
+  
+}
+
+
+
+.texto1  {
+  z-index: 100;
+ font-size: 22px;
+ top: 270px;
+ right: 190px;
+ position: absolute;
+ font-family: "Roboto", serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  line-height: 1.5em;
+  
+  
+}
+
+.print1 {
+  
+    width: 59.3%;
+    height: auto;
+    background-color: rgb(23, 26, 33);
+    position: absolute;
+    top: 245px;
+    right: 120px;
+}
+
+
+header {
+background-color: rgb(23, 26, 33);
+
+}
+
+body {
+  background-color: rgb(42, 71, 94);
+ 
+}
+.logo {
+  position: absolute;
+  top: 18px;
+  left: 18px;
+  width: 8%;
+  height: auto;
+
+
+}
+footer {
+  background-color: rgb(23, 26, 33);
+  position: absolute;
+  top: 800px;
+  width: 100%;
+  height: auto;
+  
+  }
+.gamepoint {
+  width: 16%;
+  height: auto;
+ padding: 60px 600px 60px 630px;
+
+
+}
